@@ -15,7 +15,7 @@ Full-stack developer specializing in Python, Node.js, and DevOps. Building web s
 ## 💻 Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,threejs,nodejs,django,flask,fastapi,selenium,postgres,sqlite,nginx,docker,git,linux,cloudflare,blender,bots" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,vite,threejs,nodejs,django,flask,fastapi,selenium,postgres,sqlite,nginx,docker,git,linux,cloudflare,blender,bots" />
   </a>
 </p>
 
