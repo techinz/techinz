@@ -2,7 +2,7 @@
 
 Full-stack developer specializing in Python, Node.js, and DevOps. Building web systems, automation tools, interactive 3D websites, and practical solutions for diverse technical challenges.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-techinz.dev-blue)](https://techinz.dev) [![wakatime](https://wakatime.com/badge/user/20422d42-0c77-454d-90d9-cf8fb41fdc67.svg)](https://wakatime.com/@20422d42-0c77-454d-90d9-cf8fb41fdc67)
+[![Portfolio](https://img.shields.io/badge/Portfolio-techinz.dev-blue)](https://techinz.dev)
 
 ## 🔧 Technical Expertise
 - 🤖 Automation & web parsing
